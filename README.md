@@ -7,6 +7,8 @@
 ## Technologies Used:
 ### React.js, Express.js, MongoDB, Mongoose, OAuth, Node.js, HTML5, CSS3, and Bootstrap.
 
+[![FrontEndUiScreenShot](./client/public/frontEndUi.PNG)](https://homebody-fitness.herokuapp.com/)
+
 ## Directories:
 * Root
     * [client](./client/)
